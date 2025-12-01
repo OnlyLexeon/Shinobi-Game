@@ -1,0 +1,595 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\admin\\Downloads\\Shinobi-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\enemy\\activityai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\enemy\\activityai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|d:\\admin\\downloads\\shinobi-game\\assets\\! scripts\\enemy\\detectionai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\enemy\\detectionai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\lookatplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\lookatplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\menu ui\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\menu ui\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\input\\keybindmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\input\\keybindmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\renderertogglemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\renderertogglemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\items\\noise maker\\itemnoisemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\items\\noise maker\\itemnoisemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\items\\smokebomb\\itemsmokebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\items\\smokebomb\\itemsmokebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\items\\smokebomb\\smokebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\items\\smokebomb\\smokebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\cutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\cutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\fpscontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\fpscontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\items\\noise maker\\noisemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\items\\noise maker\\noisemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\outofboundskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\outofboundskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\interactables\\ghostswordinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\interactables\\ghostswordinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\grappling hook\\grapplinghookscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\grappling hook\\grapplinghookscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\player\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\player\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\player\\assassinateindicatorhighlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\player\\assassinateindicatorhighlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\enemy\\enemysounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\enemy\\enemysounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Interactables\\InteractablePlaceholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\! Scripts\\Interactables\\InteractablePlaceholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\items\\projectile\\itemprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\items\\projectile\\itemprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\player\\vaulting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\player\\vaulting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|D:\\admin\\Downloads\\Shinobi-Game\\assets\\! scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58951D1F-8640-4B96-C640-F06BBFCCC9CE}|Assembly-CSharp.csproj|solutionrelative:assets\\! scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\admin\\downloads\\shinobi-game\\assets\\! scripts\\enemy\\targetenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\! scripts\\enemy\\targetenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\Unlocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\! Scripts\\UI_Scripts\\Unlocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\GameStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\! Scripts\\UI_Scripts\\GameStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\StatsUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\! Scripts\\UI_Scripts\\StatsUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\CursorTipsManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\! Scripts\\UI_Scripts\\CursorTipsManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\! Scripts\\UI_Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\VolumeUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\! Scripts\\UI_Scripts\\VolumeUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\SubtitleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\! Scripts\\UI_Scripts\\SubtitleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Enemy\\EnemyAttack.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Enemy\\EnemyAttack.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAYwIcBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:57:42.696Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActivityAI.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\ActivityAI.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Enemy\\ActivityAI.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\ActivityAI.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Enemy\\ActivityAI.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAqwM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:40:56.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetectionAI.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\DetectionAI.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Enemy\\DetectionAI.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\DetectionAI.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Enemy\\DetectionAI.cs",
+              "ViewState": "AQIAAOsDAAAAAAAAAAAAABkEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:31:57.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LookAtPlayer.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\LookAtPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\LookAtPlayer.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\LookAtPlayer.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\LookAtPlayer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:29:09.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAMoBAAAAAAAAAAA3wC4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:11:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Menu UI\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Menu UI\\MenuController.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Menu UI\\MenuController.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Menu UI\\MenuController.cs",
+              "ViewState": "AQIAAHwBAAAAAAAAAADwv7gBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T06:27:21.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KeybindManager.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Input\\KeybindManager.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Input\\KeybindManager.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Input\\KeybindManager.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Input\\KeybindManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:07:30.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Player\\PlayerAttack.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Player\\PlayerAttack.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAowBUBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:22:46.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RendererToggleManager.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\RendererToggleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\RendererToggleManager.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\RendererToggleManager.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\RendererToggleManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:13:02.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemNoiseMaker.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Noise Maker\\ItemNoiseMaker.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Items\\Noise Maker\\ItemNoiseMaker.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Noise Maker\\ItemNoiseMaker.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Items\\Noise Maker\\ItemNoiseMaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T06:52:37.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemSmokebomb.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Smokebomb\\ItemSmokebomb.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Items\\Smokebomb\\ItemSmokebomb.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Smokebomb\\ItemSmokebomb.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Items\\Smokebomb\\ItemSmokebomb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:23:03.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Smokebomb.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Smokebomb\\Smokebomb.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Items\\Smokebomb\\Smokebomb.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Smokebomb\\Smokebomb.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Items\\Smokebomb\\Smokebomb.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwF4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:37:40.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cutscene.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Cutscene.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Cutscene.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Cutscene.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Cutscene.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:53:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\FPSController\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\FPSController\\FirstPersonController.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\FPSController\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\FPSController\\FirstPersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:16:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwG8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:02:29.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NoiseMaker.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Noise Maker\\NoiseMaker.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Items\\Noise Maker\\NoiseMaker.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Noise Maker\\NoiseMaker.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Items\\Noise Maker\\NoiseMaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:37:34.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OutOfBoundsKill.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\OutOfBoundsKill.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\OutOfBoundsKill.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\OutOfBoundsKill.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\OutOfBoundsKill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T06:19:09.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GhostSwordInteractable.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Interactables\\GhostSwordInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Interactables\\GhostSwordInteractable.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Interactables\\GhostSwordInteractable.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Interactables\\GhostSwordInteractable.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:20:36.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Unlocked.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\Unlocked.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\UI_Scripts\\Unlocked.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\Unlocked.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\UI_Scripts\\Unlocked.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:21:46.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GameStats.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\GameStats.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\UI_Scripts\\GameStats.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\GameStats.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\UI_Scripts\\GameStats.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:17:24.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Items\\Item.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Item.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Items\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:59:32.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Player\\Inventory.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\Inventory.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Player\\Inventory.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:29:36.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TargetEnemy.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\TargetEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Enemy\\TargetEnemy.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\TargetEnemy.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Enemy\\TargetEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:28:11.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GrapplingHookScript.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\Grappling Hook\\GrapplingHookScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Grappling Hook\\GrapplingHookScript.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\Grappling Hook\\GrapplingHookScript.cs",
+              "RelativeToolTip": "Assets\\Grappling Hook\\GrapplingHookScript.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwFsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:07:34.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnemySounds.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\EnemySounds.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Enemy\\EnemySounds.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Enemy\\EnemySounds.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Enemy\\EnemySounds.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:09:45.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssassinateIndicatorHighlight.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\AssassinateIndicatorHighlight.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Player\\AssassinateIndicatorHighlight.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\AssassinateIndicatorHighlight.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Player\\AssassinateIndicatorHighlight.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:53:04.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StatsUI.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\StatsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\UI_Scripts\\StatsUI.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\StatsUI.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\UI_Scripts\\StatsUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T19:38:10.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CursorTipsManager.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\CursorTipsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\UI_Scripts\\CursorTipsManager.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\CursorTipsManager.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\UI_Scripts\\CursorTipsManager.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:27:48.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ItemProjectile.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Projectile\\ItemProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Items\\Projectile\\ItemProjectile.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Items\\Projectile\\ItemProjectile.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Items\\Projectile\\ItemProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:05:20.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InteractablePlaceholder.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Interactables\\InteractablePlaceholder.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Interactables\\InteractablePlaceholder.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Interactables\\InteractablePlaceholder.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Interactables\\InteractablePlaceholder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:59:15.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Vaulting.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\Vaulting.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Player\\Vaulting.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\Vaulting.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Player\\Vaulting.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:56:48.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerInteract.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\PlayerInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\Player\\PlayerInteract.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\Player\\PlayerInteract.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\Player\\PlayerInteract.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:02:27.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\UI_Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\UI_Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAwwFcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:31:50.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VolumeUI.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\VolumeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\UI_Scripts\\VolumeUI.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\VolumeUI.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\UI_Scripts\\VolumeUI.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAqwFIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:33:04.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SubtitleManager.cs",
+              "DocumentMoniker": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\SubtitleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\! Scripts\\UI_Scripts\\SubtitleManager.cs",
+              "ToolTip": "D:\\admin\\Downloads\\Shinobi-Game\\Assets\\! Scripts\\UI_Scripts\\SubtitleManager.cs",
+              "RelativeToolTip": "Assets\\! Scripts\\UI_Scripts\\SubtitleManager.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAqwGgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:41:15.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
