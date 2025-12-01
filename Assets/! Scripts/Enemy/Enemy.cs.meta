@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b724e46d169f6114f8c910fd38033ace
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blockParticle: {fileID: 4914658440447471751, guid: 9ca92957e88009548950b81d6481584e, type: 3}
+  - parriedParticle: {fileID: 4914658440447471751, guid: b549d1ee5fa26ed459eefe6559eb1e5a, type: 3}
+  - player: {instanceID: 0}
+  - agent: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - detectionScript: {instanceID: 0}
+  - activityScript: {instanceID: 0}
+  - attackScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

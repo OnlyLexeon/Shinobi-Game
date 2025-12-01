@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 77205034d73864e4a92d02e762cef969
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerGetHit: {fileID: 8300000, guid: 66663140174bc8b40b25efaa1f62256a, type: 3}
+  - cameraFacing: {instanceID: 0}
+  - attackScript: {instanceID: 0}
+  - fpsController: {instanceID: 0}
+  - charController: {instanceID: 0}
+  - noiseScript: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

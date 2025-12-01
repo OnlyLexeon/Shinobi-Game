@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 765a4b86c4bad774eb98596017f7f3da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SubtitleHolder: {instanceID: 0}
+  - SubtitlePrefab: {fileID: 5902812000376745845, guid: a075a434b1221b74396a77649c5eee37, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
