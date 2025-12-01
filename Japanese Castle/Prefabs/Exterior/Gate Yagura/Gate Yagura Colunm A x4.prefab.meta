@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fbd9e27c722570149bdb938045489581
+timeCreated: 1557409085
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Gate Yagura/Gate Yagura Colunm
+    A x4.prefab
+  uploadId: 620654

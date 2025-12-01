@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 10a9d9ff51b47d2418d6db6f452a841d
+timeCreated: 1557834911
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Foliage/Azalea A 01.prefab
+  uploadId: 620654

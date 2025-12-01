@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56716487d71b62744811b460f1e69012
+timeCreated: 1516202544
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Tenshu.prefab
+  uploadId: 620654

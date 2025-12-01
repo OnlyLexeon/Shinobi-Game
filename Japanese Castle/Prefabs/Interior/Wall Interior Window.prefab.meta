@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 749c6a5354d4a0441be2a1da8425465c
+timeCreated: 1488755968
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Interior/Wall Interior Window.prefab
+  uploadId: 620654

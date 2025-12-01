@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4bb3a289635561741957fcf224f5a3ee
+timeCreated: 1557765894
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Roof/Roof Castle Wall Top B.prefab
+  uploadId: 620654

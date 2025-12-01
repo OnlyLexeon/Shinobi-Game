@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bd440c268278fc3429b46ce450b75921
+timeCreated: 1557409201
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Gate Yagura/Gate Yagura Wall
+    A Interior Window x2.prefab
+  uploadId: 620654

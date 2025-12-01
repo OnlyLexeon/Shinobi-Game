@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3ef0626aeab34404ea6b46d7404358e4
+timeCreated: 1557409082
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Gate Yagura/Gate Yagura Door
+    A Right Hinge.prefab
+  uploadId: 620654

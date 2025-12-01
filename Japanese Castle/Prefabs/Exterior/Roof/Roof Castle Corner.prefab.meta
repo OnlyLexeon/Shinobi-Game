@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc281843574804246abf8d879b59d723
+timeCreated: 1489282606
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Roof/Roof Castle Corner.prefab
+  uploadId: 620654

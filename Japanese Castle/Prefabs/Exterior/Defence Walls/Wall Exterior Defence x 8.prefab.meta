@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e95a899c00ad0b043a81c932cc90e04b
+timeCreated: 1513529660
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Defence Walls/Wall Exterior
+    Defence x 8.prefab
+  uploadId: 620654

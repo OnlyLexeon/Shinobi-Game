@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01c1dad01d0a1594eb008e0ea6aa4eae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Meshes/Exterior/Materials/Wall Exterior A_AlbedoTransparency.mat
+  uploadId: 620654

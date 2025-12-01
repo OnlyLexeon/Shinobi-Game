@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cff7894584d270f4ca4b9b2862897faa
+timeCreated: 1557409117
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Gate Yagura/Gate Yagura Kugikakushi.prefab
+  uploadId: 620654

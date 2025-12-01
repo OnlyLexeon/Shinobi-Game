@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dce18dbaf5c777f459ae18a52969fc46
+timeCreated: 1519225015
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Ground/Steps wall.prefab
+  uploadId: 620654

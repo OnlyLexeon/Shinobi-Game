@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b45de0eb926d3c94ebdd7286cb5a949d
+timeCreated: 1516739292
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Bridge/Bridge side.prefab
+  uploadId: 620654

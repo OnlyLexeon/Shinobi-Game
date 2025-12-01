@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd0dceedc67014549b248b333c02f399
+timeCreated: 1488747530
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Meshes/Interior/Materials/Floor.mat
+  uploadId: 620654

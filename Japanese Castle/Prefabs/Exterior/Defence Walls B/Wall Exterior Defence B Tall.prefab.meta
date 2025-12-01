@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fd79fd51c977fd045a78eef58a98e69d
+timeCreated: 1556235168
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Defence Walls B/Wall Exterior
+    Defence B Tall.prefab
+  uploadId: 620654

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32ad67c58abacc64fb5a97ccc3d5cba4
+timeCreated: 1564151409
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Interior/Tatami_A_01_2x2.prefab
+  uploadId: 620654

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbd5791d6af3cff408db562c7dfad915
+timeCreated: 1488755954
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Interior/Stair Start.prefab
+  uploadId: 620654

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f05f167598e4fad4dbae511c3173512c
+timeCreated: 1492439081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Meshes/Exterior/Materials/Gate Castle.mat
+  uploadId: 620654

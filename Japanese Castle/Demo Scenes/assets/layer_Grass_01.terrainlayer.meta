@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec322428d58754a4fb64649012afc0f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Demo Scenes/assets/layer_Grass_01.terrainlayer
+  uploadId: 620654

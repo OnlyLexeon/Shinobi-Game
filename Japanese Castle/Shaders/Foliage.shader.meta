@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23a499f472c8fc545b4a55ef9039dc56
+timeCreated: 1557834412
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Shaders/Foliage.shader
+  uploadId: 620654

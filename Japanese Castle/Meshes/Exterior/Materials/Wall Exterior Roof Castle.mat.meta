@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c11795631cdf7bb45aa12d44115adb07
+timeCreated: 1490564246
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Meshes/Exterior/Materials/Wall Exterior Roof
+    Castle.mat
+  uploadId: 620654

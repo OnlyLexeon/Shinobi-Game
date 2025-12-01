@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca3351f8a6cc29e4492a08aa9d083f9e
+timeCreated: 1492382213
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Meshes/Interior/Materials/Wall Interior A_AlbedoTransparency.mat
+  uploadId: 620654

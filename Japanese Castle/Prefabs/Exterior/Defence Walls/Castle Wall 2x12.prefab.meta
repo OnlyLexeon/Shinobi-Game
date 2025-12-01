@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5998f0a68bb8d64ba03160df27b023b
+timeCreated: 1513603250
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Exterior/Defence Walls/Castle Wall 2x12.prefab
+  uploadId: 620654

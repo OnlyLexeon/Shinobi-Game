@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 314d1c8885c569748a7b6c6f5b4e0036
+timeCreated: 1492524521
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Prefabs/Yagura.prefab
+  uploadId: 620654

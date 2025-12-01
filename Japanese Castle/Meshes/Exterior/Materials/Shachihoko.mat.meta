@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5bc3b09d718b8924293b5f31f088e760
+timeCreated: 1492305080
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88187
+  packageName: Japanese Castle Pack
+  packageVersion: 1.5.2
+  assetPath: Assets/Japanese Castle/Meshes/Exterior/Materials/Shachihoko.mat
+  uploadId: 620654
